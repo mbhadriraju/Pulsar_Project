@@ -1,0 +1,17 @@
+	<?xml version="1.0" encoding="UTF-8"?>
+<dcterms:dc xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ https://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dc:title>PSRCAT v2: The ATNF Pulsar Catalogue</dc:title>
+  <dc:creator>George Hobbs</dc:creator>
+  <dc:subject>Astronomical sciences not elsewhere classified</dc:subject>
+  <dc:description>This collection contains the ATNF Pulsar Catalogue database files and the code and scripts used to produce each version.</dc:description>
+  <dc:publisher>CSIRO</dc:publisher>
+  <dc:contributor>Agastya Kapur</dc:contributor>
+  <dc:contributor>Lawrence Toomey</dc:contributor>
+  <dc:type />
+  <dc:format />
+  <dc:identifier>https://doi.org/10.25919/ewmv-ws23</dc:identifier>
+  <dc:language />
+  <dcterms:temporal xsi:type="dcterms:Period">start=2024-03-25; end=2024-07-04</dcterms:temporal>
+  <dc:rights />
+</dcterms:dc>
+

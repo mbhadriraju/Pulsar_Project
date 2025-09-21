@@ -1,0 +1,39 @@
+Data collection for PSRCAT v2.6.5
+This collection contains the database files and the scripts used to produce them
+
+Collection structure
+--------------------
+OSS_LICENSE.txt: License
+psrcat2.db:      Full SQLITE database file
+psrcat.db:       Database output in the original PSRCAT v1 catalogue format.
+README:          This file
+scripts/
+
+In the scripts/ directory we provide the code, scripts and auxiliary files 
+(python and C) that can be used to recreate the database files. 
+
+A .txt file is included for each publication which define the parameters 
+to include for that publication.  
+
+The psrcat_update.sh script provides the exact commands used to 
+produce the final SQL database and makes use of other scripts 
+available in that directory. 
+
+The psrcatV2_V1.c file is used to convert the final SQL database back into the v1-catalogue format.
+ 
+Updates for this release
+------------------------
+Labels: 
+sru+25
+
+Bug fixes:
+- Fix missing coords for J1947-1120 and fix erroneous ASSOC uncertainties and reference columns [PSRSOFT-349]
+- Fix zero uncertainties in P0 [PSRSOFT-350] 
+
+Features:
+N/A
+
+Contact
+-------
+lawrence.toomey@csiro.au
+
