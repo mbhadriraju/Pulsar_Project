@@ -1,3 +1,4 @@
+#keep getting error in this, thinking of how to open DB file to determine how to read it.
 # denoise_parkes.py
 import sqlite3
 import pandas as pd
