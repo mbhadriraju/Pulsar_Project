@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dcterms:dc xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ https://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dc:title>Parkes pulsar observations with undefined project IDs for 2018_14</dc:title>
+  <dc:creator>CSIRO, Australia</dc:creator>
+  <dc:subject>Astronomical sciences not elsewhere classified</dc:subject>
+  <dc:description>Parkes pulsar observations with undefined project IDs for 2018</dc:description>
+  <dc:publisher>CSIRO</dc:publisher>
+  <dc:date>2019-01-20</dc:date>
+  <dc:type />
+  <dc:format />
+  <dc:identifier>https://doi.org/10.25919/5c43671fddd16</dc:identifier>
+  <dc:language />
+  <dcterms:temporal xsi:type="dcterms:Period">start=2018-01-01; end=2018-12-31</dcterms:temporal>
+  <dcterms:spatial xsi:type="dcterms:Point" />
+  <dc:rights />
+</dcterms:dc>
